@@ -1,0 +1,7 @@
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\bin\Debug\SocketAsynClient.exe.config
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\bin\Debug\SocketAsynClient.exe
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\bin\Debug\SocketAsynClient.pdb
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\obj\Debug\SocketAsynClient.csprojAssemblyReference.cache
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\obj\Debug\SocketAsynClient.csproj.CoreCompileInputs.cache
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\obj\Debug\SocketAsynClient.exe
+C:\Users\HanSong Chen\Desktop\newTest for socket\SocketAsynClient\SocketAsynClient\obj\Debug\SocketAsynClient.pdb
